@@ -1,3 +1,3 @@
 # Java
 
-School projects
+My Java Projects
